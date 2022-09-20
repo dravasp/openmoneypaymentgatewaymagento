@@ -1,6 +1,8 @@
 Open Financial Technologies (India) Internet Payment Gateway Module for Magento 2.4x
 =====================================================================================
 
+Front-line payments suite through Value-based core Banking ecosystem
+
 Install using SSH
 ```
 cd /opt/bitnami/magento
@@ -133,5 +135,15 @@ Account Reconciliation / Revenue Insights + Affordable Pricing for Growth - Scal
 ```	Wait for a few minutes RUN command
 	sudo /opt/bitnami/ctlscript.sh restart
 	Wait for a few minutes and Re-check
-```	
+```
+
 New Registration for Merchants - https://app.open.money/register?ref=https://open.money/products/payment-gateway
+
+Download Open Financial Technologies for Business via Google Play - `https://play.google.com/store/apps/details?id=com.open.openmoney`
+(Optional) Download Salt via Google Play - `https://play.google.com/store/apps/details?id=com.salt.customer`
+
+Download Open Financial Technologies for Business via App Store - `https://apps.apple.com/in/app/open-money/id1508507688`
+(Optional) Download Salt via App Store - `https://apps.apple.com/in/app/salt-shop-from-a-local-store/id1507755275`
+
+All Apps by Open Financial Technologies via App Store - `https://apps.apple.com/in/developer/bank-open/id1507746466`
+All Apps by Open Financial Technologies via Google Play - `https://play.google.com/store/apps/developer?id=Open+Financial+Technologies`
