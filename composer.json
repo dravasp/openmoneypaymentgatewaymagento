@@ -1,0 +1,60 @@
+{
+    "name": "dravasp/openmoneypaymentgatewaymagento",
+    "description": "Open Financial Technologies (India) Internet Payment Gateway Module for Magento 2.4x optimised for Bitnami",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {
+			"php": "~5.5.0|~5.6.0|7.*|^8.0",
+	    	"magento/framework": "~103.0.4",
+			"magento/module-sales": "~103.0.4",
+        	"magento/module-checkout": "~100.4.4",
+			"magento/module-payment": "~100.4.4",
+			"magento/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmoney",
+        "magento commerce",
+        "secure payments",
+        "atmanirbhar bharat india",
+        "layer payment gateway",
+        "wallets and emis",
+        "netbanking and upi",
+		"multiple collection touchpoints",
+		"payment retry"
+    ],
+    "authors": [
+        {
+            "name": "Action One",
+            "homepage": "https://github.com/dravasp",
+            "role": "Contributor"
+        },
+		{
+            "name": "Ajeesh Achutan",
+            "homepage": "https://in.linkedin.com/company/bankwithopen",
+			"email": "ajeesh@bankopen.co",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/dravasp/openmoneypaymentgatewaymagento",
+        "issues": "https://github.com/bankopen/layer-magento-plugin_232/issues",
+		"rss": "https://github.com/dravasp/openmoneypaymentgatewaymagento/releases.atom",
+        "docs":
+            "https://github.com/dravasp/openmoneypaymentgatewaymagento/blob/main/README.md"
+    },
+    "homepage": "https://open.money",
+    "suggest": {
+        "magento/module-checkout-agreements": "~100.4.4"
+    },
+    "type": "magento2-module",
+    "license": [
+		"OSL-3.0",
+        "AFL-3.0"
+		],
+    "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {
+            "Open\\Layerpg\\": ""
+        }
+    }
+}
