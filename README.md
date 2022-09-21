@@ -147,3 +147,7 @@ Download Open Financial Technologies for Business via App Store - `https://apps.
 
 All Apps by Open Financial Technologies via App Store - `https://apps.apple.com/in/developer/bank-open/id1507746466`
 All Apps by Open Financial Technologies via Google Play - `https://play.google.com/store/apps/developer?id=Open+Financial+Technologies`
+
+Subscribe to `MATRIX Communications WAP Service` for `Terminal` Access even in Remote Locations.
+	- Register your interest at https://matrix.in
+	- Complete KYC with TRAI Required
