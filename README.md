@@ -1,6 +1,19 @@
 Open Financial Technologies (India) Internet Payment Gateway Module for Magento 2.4x
 =====================================================================================
 
+[![GitHub issues](https://img.shields.io/github/issues/dravasp/openmoneypaymentgatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/openmoneypaymentgatewaymagento/issues)
+[![GitHub forks](https://img.shields.io/github/forks/dravasp/openmoneypaymentgatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/openmoneypaymentgatewaymagento/network)
+[![GitHub stars](https://img.shields.io/github/stars/dravasp/openmoneypaymentgatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/openmoneypaymentgatewaymagento/stargazers)
+[![GitHub license](https://img.shields.io/github/license/dravasp/openmoneypaymentgatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/openmoneypaymentgatewaymagento)
+![Badge](https://img.shields.io/badge/Adobe%20Magento%20Commerce-on%20awsCloud%20Bitnami-blue)
+![Github language](https://img.shields.io/github/languages/code-size/dravasp/openmoneypaymentgatewaymagento?style=flat-square)
+![Packagist](https://img.shields.io/packagist/dt/dravasp/openmoneypaymentgatewaymagento?style=flat-square)
+![Packagist](https://img.shields.io/packagist/l/dravasp/openmoneypaymentgatewaymagento?style=flat-square)
+![Packagist](https://img.shields.io/packagist/stars/dravasp/openmoneypaymentgatewaymagento?style=flat-square)
+![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCq5uAC3ttHZjKTpvJljzaJQ)
+![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
+![Brand Website](https://img.shields.io/website?down_color=not%20running&down_message=site%20under%20maintainence&style=flat-square&up_message=active%20and%20running&url=https%3A%2F%2Fopen.money)
+
 Front-line payments suite through Value-based core Banking ecosystem
 
 Install using SSH
