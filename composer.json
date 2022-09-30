@@ -2,6 +2,7 @@
     "name": "dravasp/openmoneypaymentgatewaymagento",
     "description": "Open Financial Technologies (India) Internet Payment Gateway Module for Magento 2.4x optimised for Bitnami",
     "version": "1.0.0",
+    "license": ["MIT"],
     "minimum-stability": "stable",
     "require": {
 			"php": "~5.5.0|~5.6.0|7.*|^8.0",
@@ -47,10 +48,6 @@
         "magento/module-checkout-agreements": "~100.4.4"
     },
     "type": "magento2-module",
-    "license": [
-		"OSL-3.0",
-        "AFL-3.0"
-		],
     "autoload": {
         "files": ["registration.php"],
         "psr-4": {
